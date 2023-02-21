@@ -21,4 +21,12 @@ my_height = 185
 print(my_height)
 
 
-# dunder variables are those which start with double underscore(__) ---- they are to be left alone
+# dunder variables are those which start with double underscore(__) ---- they are to be left alone.
+
+# very short handway of assigning a variable
+# example:
+
+x,y,z = 10,9,8
+print(x)
+print(y)
+print(z)
