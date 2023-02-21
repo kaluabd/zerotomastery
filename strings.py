@@ -19,3 +19,12 @@ very_long = '''
 '''
 
 print(very_long)
+
+
+# string manipulation and type conversion
+
+a = 100
+print(type(a))
+
+b = str(a)
+print(type(b))
