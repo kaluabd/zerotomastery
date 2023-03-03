@@ -16,7 +16,7 @@ awesome_format =[
 # Printing sliced list value
 print(awesome_format[:2])
 
-#lets check if list is immutable or not
+#lets are mutable, their value can be changed unlike strings
 awesome_format[2] = 'lemon'
 
 #Print the updated list value
