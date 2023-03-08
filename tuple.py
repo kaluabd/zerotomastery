@@ -13,7 +13,7 @@ print(my_tuple.index(3))
 # example of dictionary
 # Dictinary has a key:value positioning.
 user = {
-    'name': 'kyle',
+    'name': 'kyle', 
     'age': 25,
     'location': 'London'
 }
