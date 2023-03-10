@@ -10,3 +10,7 @@ if age >= 18 and driver_licence == 'yes':
     print('can drive')
 else:
     print('can not drive for now!')
+
+
+# truthy is something that have a value and that value is not zero.
+# falsey is when it contains no value or false value and None values.
