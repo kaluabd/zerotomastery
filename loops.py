@@ -14,6 +14,8 @@ user = {
 }
 
 # most important dictionary methods
+# iterable - list, dictionary, tuple, set, string
+# iterate - checking one by one, until the end value is attend.
 
 for key, value in user.items():
     print(key, value)
